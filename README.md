@@ -62,5 +62,5 @@ Seeking opportunities as an Entry-Level / Associate Software Engineer while cont
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/ahsan-zulfiqar-b06105352/
+- LinkedIn: https://www.linkedin.com/in/ahsanzulfiqar318/
 - Email: ahsanzulfiqar318@gmail.com
