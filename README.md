@@ -16,7 +16,6 @@ Currently expanding my expertise in:
 **Languages**
 - Python
 - SQL
-- JavaScript
 - C++
 
 **Backend**
@@ -33,6 +32,10 @@ Currently expanding my expertise in:
 - GitHub
 - VS Code
 - Jupyter Notebook
+- Google Colab
+- Microsoft Excel
+- Power BI
+  
 
 ---
 
